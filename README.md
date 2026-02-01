@@ -1,0 +1,2 @@
+# ReadingPaper
+一个用于阅读arxiv论文的小工具。可以先将自己感兴趣的论文arxiv链接复制到papers.txt文件中，然后用python运行代码，它会将论文喂给deepseek然后每篇论文出报告。
